@@ -1,0 +1,2 @@
+000_file_name:bi03_uzakbaev_forma01.txt;010_mode:a;best_player:Узакбаев;best_soccer:Семенов;evaluetion:Неудовлетворительно;function:page;number_of_goals:10;page_id:3;submit:Отправить;user_date:2000-01-01;REMOTE_ADDR:89.109.49.178;date:2022-03-01 17:14;
+000_file_name:bi03_uzakbaev_forma01.txt;010_mode:a;best_player:Узакбаев;best_soccer:Семенов;evaluetion:Неудовлетворительно;function:page;number_of_goals:10;page_id:3;submit:Отправить;textarea:sdfghnjmkilkujythrgfdsx;user_date:2000-01-01;REMOTE_ADDR:89.109.49.178;date:2022-03-01 17:14;

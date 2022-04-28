@@ -1,0 +1,59 @@
+2+2;  x=2. y = '3' typeof(z) 
+
+alert(1)     console.log(2)
+
+function hello(){alert(2)}
+hello()
+
+function hello(x){alert(x)}
+hello("abc")
+
+function hello(x){alert(2 * x)}
+hello(5)
+
+=====================
+let task = {
+    rasource_name: "Узел",
+    resorce_price: 100000,
+    task_stream: "+"
+    task_comments: {
+        comment1: "комментарий 1",
+        comment2: "комментарий 2",
+    },
+    realization() {alert("Осуществление")} 
+}
+======================
+document.title = "123"
+document.body.style.backgroundColor ="red"
+document.body.style.backgroundColor = "rgba(0, 20, 220, 1)"
+
+----------------------
+https://developer.mozilla.org/ru/docs/Web/API/Console
+https://developer.mozilla.org/ru/docs/Web/API/Console/log
+console.log("abc")
+https://developer.mozilla.org/ru/docs/Web/API/Console/dir
+console.dir(document)
+console.dir(document.domain);
+
+document.title = 123
+document.head
+document.all
+document.all[0]
+document.all[2].textContent="title"
+document.forms
+
+==========================
+https://developer.mozilla.org/en-US/docs/Web/API/Element#Methods
+document.addEventListener('mousedown', hello())
+function click(){ alert("asd")}; document.addEventListener("click", click())  
+document.addEventListener("click", function(){ alert("asd1")})
+document.addEventListener("click", () => { alert("asd2")})
+document.addEventListener("click", () => alert("asd3"))
+
+===========================
+let myNumbers = [2,4,5]    
+let doubleNumbers = myNumbers.map (function(x) { return x * 2})
+console.log(doubleNumbers)
+let doubleNumbers1 = myNumbers.map(x => x * 2)
+console.log(doubleNumbers1)
+==========================

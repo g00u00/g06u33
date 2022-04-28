@@ -1,0 +1,1 @@
+000_file_name:ghoul.txt;010_mode:w;function:page;last_name:['Кшнякин', '666'];name:Павел;page_id:3;phone:79040594441;role:nyashka;submit:Отправить;surname:Дмитриевич;textarea:amgsex;REMOTE_ADDR:95.37.217.182;date:2022-03-22 15:59;

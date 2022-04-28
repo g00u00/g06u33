@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>JS</title>
+<meta charset="utf-8">
+</head>
+
+<body>
+<p id="my_p">JS</p>
+
+
+<script src="../js/0350_function.js"></script>
+<form id="myForm"  action="http://bim.nn2000.info">
+<p>
+<br><input type="text" id="my_text" onchange="doAnalizeMy(this.value)"> - myVariableCalс (кликом Обработать будем формировать список и суммировать)
+<br><input type="text" onchange= "doAnalizeNew(this.value)"> - newVariableCalс
+<br> <input type="buttom"  class="myBotton" onclick="doCalculate()" value="Обработать"> - дополняем список и суммируем myVariableCalc
+</p>
+<p>
+<input type="buttom"  class="myBotton" onclick="doSubmit()" value="Отправить"> - отправляем  результат обработки на удаленный сервер
+<p/>
+</form>
+<div id="myResult">- место для изменения функцией 1</div> 
+<div id="newResult">- место для изменения функцией 2</div> 
+
+<script>
+var myNode = document.getElementsByClassName("myBotton")//для подсветки кнопок
+myNode[0].style.backgroundColor = "green" 
+myNode[1].style.backgroundColor = "red"
+</script>
+
+
+
+</body>
+
+</html>

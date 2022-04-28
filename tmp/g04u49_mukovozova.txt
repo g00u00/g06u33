@@ -1,0 +1,1 @@
+000_file_name:g04u49_mukovozova.txt;010_mode:a;age:45;date:2022-03-21 10:29;email:example@edu.hse.ru;function:page;last_name:Муковозова;name:Наталья;number:45677454;page_id:3;submit:Отправить;REMOTE_ADDR:176.59.120.118;

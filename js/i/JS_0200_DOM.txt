@@ -1,0 +1,49 @@
+/*
+http://g06u33.nn2000.info/cgi-bin/engine.py?
+
+document.getElementById("myId")
+let myNode = document.getElementById("myId")
+myNode.innerHTML
+myNode.innerHTML = "myNode.innerHTML"
+
+myNode.style.textAlign
+myNode.style.textAlign = "center"
+
+myNode.style.color
+myNode.style.color = "yellow"
+myNode.style.color
+
+
+
+let elems = document.getElementsByTagName("p")
+for(let i = 0; i < (elems.length); i++) {console.log(elems[i])};
+
+let elems = document.getElementsByClassName("hellobox")
+for(let i = 0; i < (elems.length); i++) {console.log(elems[i])};
+
+let elems = document.getElementsByClassName("myClass")
+for(let i = 0; i < (elems.length); i++) {console.log(elems[i])};
+
+
+document.querySelector("#myId")
+document.querySelector("#myId").tagName
+document.querySelector("#myId").textContent
+document.querySelector("p")
+document.querySelectorAll("p")
+document.querySelector(".hellobox")
+
+
+let elems = document.getElementsByClassName("myClass")
+for(let i = 0; i < (elems.length); i++) {console.log(elems[i].parentNode)};
+
+
+
+
+myNode = document.getElementsByClassName("myClass")
+myNode[0].innerHTML= "42"
+for(let i = 0; i < (myNode .length); i++) {console.log(myNode [i].parentNode)};
+for(let i = 0; i < (myNode .length); i++) {console.log(myNode [i].innerHTML)};
+for(let i = 0; i < (myNode .length); i++) {myNode[i].innerHTML= i};
+
+//https://www.youtube.com/watch?v=1FpuKVmotNc
+*/

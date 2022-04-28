@@ -1,0 +1,100 @@
+html{
+	margin: 0px;
+	background-color: gray;
+}
+		
+body,button,input,select,p,pre,textarea {
+	margin: 5px;
+	color:#6d6d6d;
+	font-size:13px;
+	line-height: 1.1em;
+	background-color: #f7f7f7;
+}
+
+.hellobox {
+	display:block;
+	position:relative; 
+	top: 0px; 
+	left: 0px; 	
+	height:250px;
+	margin:0;
+	background: #f7f7f7 url('../img/engine.jpg') no-repeat center bottom;
+	background-size:cover;
+}
+
+img {
+	border:0;
+	vertical-align:middle;
+}
+
+
+h1 {
+	padding:2em;
+	font-weight:bold;
+	font-size:2em;
+	font-style:italic;
+	color:#fff;
+	text-align:center;
+}
+
+
+h2 {
+	font-size:1.7em;
+	color:#fff;
+	text-align:center;
+	padding:1em;
+	margin:0;
+}
+
+h4 {
+	font-size:1.2em;
+	margin:40px 20px 10px 20px;
+}
+
+
+nav {
+	margin:0em;
+	padding:1em;
+	text-align:center;
+}
+
+
+ul,ol {
+	margin:0em;
+	padding:1em 0 0 4em;
+}
+
+
+
+nav ul li {
+	display:inline-block;
+	position: relative;
+	margin:0em;
+	padding:0em 0em 0em 2em;
+	color:#aaa;
+	text-decoration:none;
+	font-size:1.2em;
+	font-weight: 700;
+}
+
+a {
+    color:#aaa;
+    text-decoration:none;
+}
+
+a:hover {text-decoration:underline;}
+.active {color:#4A90F2;}
+
+
+section{
+	border-top: 2px solid gray;
+}
+
+
+
+
+footer {
+	border-top: 2px solid gray;
+}
+
+

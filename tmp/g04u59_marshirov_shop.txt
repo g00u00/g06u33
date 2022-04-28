@@ -1,0 +1,1 @@
+000_file_name:g04u59_marshirov_shop.txt;010_mode:a;function:page;name:['Товар1', 'Товар2', 'Товар3', 'Товар4'];page_id:3;price:['200', '50', '200', '200'];quant:['0', '0', '0', '0'];submit:Отправить;REMOTE_ADDR:176.213.0.74;date:2022-03-16 20:12;
